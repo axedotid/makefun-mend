@@ -47,3 +47,8 @@ re-indented to match the file's own indentation.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+## make.fun
+
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/axedotid/makefun-mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/axedotid/makefun-mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
